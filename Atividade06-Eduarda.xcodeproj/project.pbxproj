@@ -19,6 +19,7 @@
 		221DA4812D2B29C500C80EB2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		221DA4832D2B29C600C80EB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		221DA4862D2B29C600C80EB2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		221DA4902D386DC800C80EB2 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = File.swift; path = "../Atividade 6 - Carol/File.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		221DA4732D2B29C500C80EB2 = {
 			isa = PBXGroup;
 			children = (
+				221DA4902D386DC800C80EB2 /* File.swift */,
 				221DA47E2D2B29C500C80EB2 /* Atividade06-Eduarda */,
 				221DA47D2D2B29C500C80EB2 /* Products */,
 			);

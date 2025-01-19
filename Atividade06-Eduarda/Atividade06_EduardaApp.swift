@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Atividade06_EduardaApp: App {
+struct TextManipulationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
